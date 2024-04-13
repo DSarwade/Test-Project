@@ -337,7 +337,7 @@ Charging Time -  2.5 Hours
 Working Time - 3-7 Days
 Water Resistance - IP68 
 Frequency Band - No
-> *Note: The net weight will differ according to different shape
+> **Note: The net weight will differ according to different shape**
 
 * Maintenance
 Make sure to regularly clean your wrist and the strap of the smartwatch, especially after sweating during exercise or being exposed to substances like soap or detergent, which can stick to the product.
