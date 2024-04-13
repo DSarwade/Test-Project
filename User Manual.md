@@ -366,7 +366,7 @@ Frequency Band - No
 
 > **Note: The net weight will differ according to different shape**
 
-### * Maintenance
+### Maintenance
 
 Make sure to regularly clean your wrist and the strap of the smartwatch, especially after sweating during exercise or being exposed to substances like soap or detergent, which can stick to the product.
 
@@ -374,7 +374,7 @@ Avoid washing the strap with a household cleanser. Instead, use soapless deterge
 
 If you encounter spots or stains that are difficult to remove, scrub the area with rubbing alcohol and then follow the steps mentioned above.
 
-### * Safety & Product Information
+### Safety & Product Information
 
    * Battery
       * Do not disassemble, bore or damage the battery.
