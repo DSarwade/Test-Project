@@ -19,7 +19,7 @@ The boAt Enigma x600 Smartwatch is designed to enhance your daily life with its 
 [Fig 1: Enigma x600 Smartwatch (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
 
-### Package Contains
+#### Package Contains
 1. boAt Enigma x600 Smartwatch x1
 2. User manual x1
 3. USB magnetic charging cable x1 
