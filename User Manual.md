@@ -12,6 +12,7 @@ You have bought the boAt Enigma x600 Smartwatch—congratulations! This user man
 ## 1. Introduction
 The boAt Enigma x600 Smartwatch is designed to enhance your daily life with its multifunctional capabilities. From tracking your fitness activities to receiving notifications from your smartphone, this smartwatch aims to keep you connected and active.
 
+![Fig 1: Enigma x600 Smartwatch](https://github.com/DSarwade/Test-Project/assets/166905444/9cd78999-21b9-484f-97bd-4044bcbd6bc1)
 
 Fig 1: Enigma x600 Smartwatch (Source: boAt official website)
 
