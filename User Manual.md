@@ -58,10 +58,10 @@ Power on your smartwatch by pressing the upper side button for 3-5 seconds. You 
 
 #### Syncing Your Smartwatch To The App
 Data Synchronization
-• Open the app on your smartphone. 
-• Make sure your Enigma X600 is connected to the app.
-• Synchronization will start automatically once you enter the app interface. 
-*Note: Synchronize data at least once every day to avoid data loss in the watch.
+   * Open the app on your smartphone. 
+   * Make sure your Enigma X600 is connected to the app.
+   * Synchronization will start automatically once you enter the app interface. 
+> **Note: Synchronize data at least once every day to avoid data loss in the watch.**
 
 -------------------------------------------------
 
