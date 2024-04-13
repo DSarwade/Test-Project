@@ -1,3 +1,5 @@
+# boAt Enigma x600 Smartwatch User Manual
+
 You have bought the boAt Enigma x600 Smartwatch—congratulations! This user manual helps you set up and use your smartwatch effectively.
 
 # Table of Contents
