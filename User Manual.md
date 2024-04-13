@@ -40,21 +40,21 @@ Power on your smartwatch by pressing the upper side button for 3-5 seconds. You 
 
 ![image28](https://github.com/DSarwade/Test-Project/assets/166905444/48e19458-f1f6-4ad3-93ab-4d832ef6f934)
 
-Fig 3: Turn ON/OFF Watch (Source: boAt official website)
+[Fig 3: Turn ON/OFF Watch (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
 * Pair your smartwatch with the App 
 
-Download the boAt Smartwear app from the App Store (iOS 12.0+) or Google Play Store (Android 8.0+). (Alternatively, scan the QR code on the watch to download the app.)
-Make sure your phone's Bluetooth and GPS are enabled.
-Connect your device to the boAt Smartwear app.
-On the app's home screen, select Enigma X600 and click to pair.
-Once connected, receive an alert to connect with ENIGMAX500_BT; click to pair for call functionality.
-Tap 'yes' to system prompts for seamless connection and access to all Enigma X600 features.
-Turn off battery optimization.
+  1. Download the boAt Smartwear app from the App Store (iOS 12.0+) or Google Play Store (Android 8.0+). (Alternatively, scan the QR code on the watch to download the app.)
+  2. Make sure your phone's Bluetooth and GPS are enabled.
+  3. Connect your device to the boAt Smartwear app.
+  4. On the app's home screen, select Enigma X600 and click to pair.
+  5. Once connected, receive an alert to connect with ENIGMAX500_BT; click to pair for call functionality.
+  6. Tap 'yes' to system prompts for seamless connection and access to all Enigma X600 features.
+  7. Turn off battery optimization.
 
 ![image32](https://github.com/DSarwade/Test-Project/assets/166905444/4dfe5e21-eeb8-43ee-88cb-e88dacbf8fe8)
 
-Fig 4: Barcode To Download The App (Source: boAt official website)
+[Fig 4: Barcode To Download The App (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
 #### Syncing Your Smartwatch To The App
 Data Synchronization
@@ -303,28 +303,28 @@ Tap on this to reset watch data.
 
 Fig 36: Reset Interface (Source: boAt official website)
 
-Swipe Up To Access The Notifications 
+* Swipe Up To Access The Notifications 
 Here, you can check all the notifications. Click on the delete icon to remove them all.
 
 ![image23](https://github.com/DSarwade/Test-Project/assets/166905444/b787d0eb-e0e4-4042-8f79-73bb8ea25797)
 
-Fig 37: Notifications Interface (Source: boAt official website)
+[Fig 37: Notifications Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Swipe Down For The Shortcut Menu 
+* Swipe Down For The Shortcut Menu 
 Access Brightness, Settings, About, Flashlight, Phone, DND, and Power saving mode by swiping down.
-
 
 ![image35](https://github.com/DSarwade/Test-Project/assets/166905444/36c4d30e-c5d0-4661-9a47-4f654b9ddf85)
 
-Fig 38: Shortcut Menu Interface (Source: boAt official website)
+[Fig 38: Shortcut Menu Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Swipe Left To Access Shortcut Data 
+* Swipe Left To Access Shortcut Data 
 Swipe left to view daily activity, heart rate, sleep, weather, and music. You can also add more features.
 
-![image13](https://github.com/DSarwade/Test-Project/assets/166905444/02f8394e-37b1-43c2-89dd-018fec9cc883)
+![Fig 39: Shortcut Data Interface](https://github.com/DSarwade/Test-Project/assets/166905444/02f8394e-37b1-43c2-89dd-018fec9cc883)
 
-Fig 39: Shortcut Data Interface (Source: boAt official website)
+[Fig 39: Shortcut Data Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
+-----------------------------------------------------------
 
 ## 5. Product Parameters 
 
@@ -348,14 +348,15 @@ Frequency Band - No
 
 > **Note: The net weight will differ according to different shape**
 
-## * Maintenance
+### * Maintenance
+
 Make sure to regularly clean your wrist and the strap of the smartwatch, especially after sweating during exercise or being exposed to substances like soap or detergent, which can stick to the product.
 
 Avoid washing the strap with a household cleanser. Instead, use soapless detergent, rinse thoroughly, and wipe with a soft towel or napkin.
 
 If you encounter spots or stains that are difficult to remove, scrub the area with rubbing alcohol and then follow the steps mentioned above.
 
-## * Safety & Product Information
+### * Safety & Product Information
 
    * Battery
       * Do not disassemble, bore or damage the battery.
