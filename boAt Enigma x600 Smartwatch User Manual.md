@@ -1,30 +1,22 @@
-boAt Enigma x600 Smartwatch User Manual
 You have bought the boAt Enigma x600 Smartwatch—congratulations! This user manual helps you set up and use your smartwatch effectively.
 
+# Table of Contents
+1. Introduction 
+2. Getting Started 
+3. Basic Functions
+4. Settings
+5. Product Parameters
 
-Table of Contents
-Introduction………………………………………………………………………..……… 2
-Getting Started…………………………………………………………………………… 3
-Basic Functions…………………………………………………………………………… 5
-Settings………………………………………………………………………………………. 13
-Product Parameters…………………………………………………………………… 19
+----------------------------------------------
 
-
-
-
-
-
-
-
-
-1. Introduction
+## 1. Introduction
 The boAt Enigma x600 Smartwatch is designed to enhance your daily life with its multifunctional capabilities. From tracking your fitness activities to receiving notifications from your smartphone, this smartwatch aims to keep you connected and active.
 
 
 Fig 1: Enigma x600 Smartwatch (Source: boAt official website)
 
 
-Package Contains
+### Package Contains
 boAt Enigma x600 Smartwatch x1
 User manual x1
 USB magnetic charging cable x1 
@@ -32,7 +24,7 @@ Warranty card x1
 
 
 
-2. Getting Started
+## 2. Getting Started
 To begin using your smartwatch, follow these steps:
 
 Charge your smartwatch using the provided charging cable.
@@ -65,7 +57,8 @@ Data Synchronization
 • Make sure your Enigma X600 is connected to the app.
 • Synchronization will start automatically once you enter the app interface. 
 *Note: Synchronize data at least once every day to avoid data loss in the watch.
-3. Basic Functions 
+
+## 3. Basic Functions 
 Press the upper side button to access the main menu.
 
 Dial 
@@ -194,7 +187,8 @@ Click on this icon to locate your phone. Once enabled, your phone will start rin
 
 
 Fig 24: Find My Phone Interface (Source: boAt official website)
-4. Settings 
+
+## 4. Settings 
 
 Menu Style 
 Change the menu style from here.
