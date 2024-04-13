@@ -147,54 +147,60 @@ Tap on the icon to review the sleep data from the previous night. Once the sleep
 __10. Blood Oxygen__ 
 
 Wear the watch on your wrist, then start measurements by clicking on the icon. You can also view the data on the app.
-< **Note: Measurements are for reference only and not for medical purposes.**
+> **Note: Measurements are for reference only and not for medical purposes.**
 
 ![image3](https://github.com/DSarwade/Test-Project/assets/166905444/dc2dbcd6-1e8c-4557-89b6-810686aebe75)
 
-Fig 14: Blood Oxygen Interface (Source: boAt official website)
+[Fig 14: Blood Oxygen Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Messages 
+__11. Messages__ 
+
 Tap on this icon to check your messages.
 
 ![image18](https://github.com/DSarwade/Test-Project/assets/166905444/78dc037f-3096-445b-b038-879dd51c3c96)
 
-Fig 15: Messages Interface (Source: boAt official website)
+[Fig 15: Messages Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Weather 
+__12. Weather__ 
+
 Connect with the boAt Smartwear app to receive daily weather updates on the watch.
 
 ![image34](https://github.com/DSarwade/Test-Project/assets/166905444/d6e3d3bd-9004-466d-ac16-4cf37ff91c4f)
 
-Fig 16: Weather  Interface (Source: boAt official website)
+[Fig 16: Weather Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Female 
+__13. Female__
+
 Activate and set the details on the boAt Smartwear app to receive alerts about your period and ovulation dates on the watch.
 
 ![image20](https://github.com/DSarwade/Test-Project/assets/166905444/0063a284-6145-414a-a098-6bfce15b3cae)
 
-Fig 17: Female Interface (Source: boAt official website)
+[Fig 17: Female Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Music 
+__14. Music__
+
 Tap the remote music control icon on your watch to play music from your phone.
-*Note: Some apps with different protocols might not work. 
+> **Note: Some apps with different protocols might not work.** 
 
 ![image26](https://github.com/DSarwade/Test-Project/assets/166905444/3133125e-4995-400d-9f14-0388c1edf985)
 
-Fig 18: Music Interface (Source: boAt official website)
+[Fig 18: Music Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Breathe 
+__15. Breathe__ 
+
 Click on the breath training icon to regulate your breathing with the given instructions to relax.
 
 ![image37](https://github.com/DSarwade/Test-Project/assets/166905444/351f8f7b-9108-4441-a90c-02a1384021d5)
 
-Fig 19: Breathe Interface (Source: boAt official website)
+[Fig 19: Breathe Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Stopwatch
+__16. Stopwatch__
+
 Tap on this to start the stopwatch on your watch.
 
 ![image2](https://github.com/DSarwade/Test-Project/assets/166905444/b5b8256a-ee92-4af6-848a-e9181bbe3c7d)
 
-Fig 20: Stopwatch Interface (Source: boAt official website)
+[Fig 20: Stopwatch Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
 Timer
 Tap on this to turn on the timer.
