@@ -110,7 +110,7 @@ Check your daily activity data, including step count, calorie burn, and distance
 
 [Fig 9: Activity Data Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-___6. Workout__
+__6. Workout__
 
 Tap the workout icon and select from multiple sports modes including Walking, Running Treadmill, Hiking, Strength Training, Basketball, Badminton, Elliptical, Yoga, Table Tennis, Rope Skipping, Rower, Lazy Car, Exercise Bike, Tennis, Baseball, Rugby, Cricket, Cycling, and more. Simply tap on your preferred activity to begin.
 
