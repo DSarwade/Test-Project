@@ -204,138 +204,157 @@ Tap on this to start the stopwatch on your watch.
 
 [Fig 20: Stopwatch Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Timer
+__17. Timer__
+
 Tap on this to turn on the timer.
 
 ![image25](https://github.com/DSarwade/Test-Project/assets/166905444/febb2437-7202-4c82-844f-629e0ecaca2f)
 
-Fig 21: Timer Interface (Source: boAt official website)
+[Fig 21: Timer Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Alarm clock
+__18. Alarm clock__
+
 Click on this to set an alarm on your watch.
 
 ![image14](https://github.com/DSarwade/Test-Project/assets/166905444/90f16cdb-0497-4532-ab7e-4b456a804bb8)
 
-Fig 22: Alarm Clock Interface (Source: boAt official website)
+[Fig 22: Alarm Clock Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Game
+__19. Game__
+
 Tap on this to access a variety of games. Choose from 2048 and Car.
 
 ![image29](https://github.com/DSarwade/Test-Project/assets/166905444/79292773-0c37-43fd-9c67-39cd25786fea)
 
-Fig 23: Game Interface (Source: boAt official website)
+[Fig 23: Game Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Find My Phone
+__20. Find My Phone__
+
 Click on this icon to locate your phone. Once enabled, your phone will start ringing and vibrating. Tap again to stop it.
-*Note: Your smartwatch must be connected to your phone via Bluetooth and within its range for this feature to function.
+> **Note: Your smartwatch must be connected to your phone via Bluetooth and within its range for this feature to function.**
 
 ![image12](https://github.com/DSarwade/Test-Project/assets/166905444/0857847d-2acf-469e-9c46-7fd1bcb1b3c9)
 
-Fig 24: Find My Phone Interface (Source: boAt official website)
+[Fig 24: Find My Phone Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
 -------------------------------------------------------
 
 ## 4. Settings 
 
-Menu Style 
+__1. Menu Style__ 
+
 Change the menu style from here.
 
 ![image30](https://github.com/DSarwade/Test-Project/assets/166905444/1dc8c544-f6b0-48af-a1c3-fbd40ee996f5)
 
-Fig 25: Menu Style Interface (Source: boAt official website)
+[Fig 25: Menu Style Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Display
+__2. Display__
+
 Adjust the brightness, set the screen on time, AOD clock, and enable the wake gesture by tapping on Display.
 
 ![image7](https://github.com/DSarwade/Test-Project/assets/166905444/0ff446c8-bf50-4214-bd73-5bd33f4dcc22)
 
-Fig 26: Display Interface (Source: boAt official website)
+[Fig 26: Display Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Battery
+__3. Battery__
+
 Tap on this to see the current battery percentage and enable power-saving mode. 
+
 ![image31](https://github.com/DSarwade/Test-Project/assets/166905444/f14eff36-325c-4216-8ef9-36a867a082fd)
 
-Fig 27: Battery Interface (Source: boAt official website)
+[Fig 27: Battery Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Vibration & Ring
+__4. Vibration & Ring__
+
 Choose from mute, ring, and vibration options by tapping on Vibration & Ring.
 
 ![image39](https://github.com/DSarwade/Test-Project/assets/166905444/7e6ea018-25fe-4b1d-a045-73e75fb891aa)
 
-Fig 28: Vibration & Ring Interface (Source: boAt official website)
+[Fig 28: Vibration & Ring Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-App
+__5. App__
+
 Click on this and scan the barcode from the smartphone to connect the smartwatch.
 
 ![image6](https://github.com/DSarwade/Test-Project/assets/166905444/3e0ed7d6-e12d-4420-89ca-d62b199ee80f)
 
-Fig 29: Barcode To Download The App (Source: boAt official website)
+[Fig 29: Barcode To Download The App (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Down Button Settings
+__6. Down Button Settings__
 Click on this to change the functionality of side buttons
 
 ![image16](https://github.com/DSarwade/Test-Project/assets/166905444/0fe502fa-4a03-4975-a5cb-84fbf559f85c)
 
-Fig 30: Down Button Settings Interface (Source: boAt official website)
+[Fig 30: Down Button Settings Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Set Time
+__7. Set Time__
+
 Set the date and time format by tapping on Set Time.
 
 ![image11](https://github.com/DSarwade/Test-Project/assets/166905444/c4e0c0fc-0257-4214-ab40-4f858535ec6d)
 
-Fig 31: Set Time Interface (Source: boAt official website)
+[Fig 31: Set Time Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Password
+__8. Password__
+
 Click on this to set a password for the watch.
 
 ![image19](https://github.com/DSarwade/Test-Project/assets/166905444/f9ef3a01-ff11-429b-a1d5-43ae3c2621c6)
 
-Fig 32: Password Interface (Source: boAt official website)
+[Fig 32: Password Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Device Info
+__9. Device Info__
+
 Shows the device details.
 
 ![image15](https://github.com/DSarwade/Test-Project/assets/166905444/90ced0d9-b9fb-4e2f-af51-bf3821a2c083)
 
-Fig 33: Device Info Interface (Source: boAt official website)
+[Fig 33: Device Info Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Power Off
+__10. Power Off__
+
 Tap here to switch off your watch.
 
 ![image4](https://github.com/DSarwade/Test-Project/assets/166905444/c154f585-4f96-4fbc-9bbd-fe2e03509159)
 
-Fig 34: Power Off Interface (Source: boAt official website)
+[Fig 34: Power Off Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Restart
+__11. Restart__
+
 Tap here to restart the watch.
 
 ![image1](https://github.com/DSarwade/Test-Project/assets/166905444/f4beba17-57bf-4154-8c99-62097d92e4f7)
 
-Fig 35: Restart Interface (Source: boAt official website)
+[Fig 35: Restart Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Reset
+__12. Reset__
+
 Tap on this to reset watch data. 
-*Note: All data will be erased if watch is reset
+> **Note: All data will be erased if watch is reset.**
 
 ![image10](https://github.com/DSarwade/Test-Project/assets/166905444/4b060c9c-e602-468d-a85f-236b416bec7d)
 
-Fig 36: Reset Interface (Source: boAt official website)
+[Fig 36: Reset Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-* Swipe Up To Access The Notifications 
+__13. Swipe Up To Access The Notifications__
+
 Here, you can check all the notifications. Click on the delete icon to remove them all.
 
 ![image23](https://github.com/DSarwade/Test-Project/assets/166905444/b787d0eb-e0e4-4042-8f79-73bb8ea25797)
 
 [Fig 37: Notifications Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-* Swipe Down For The Shortcut Menu 
+__14. Swipe Down For The Shortcut Menu__
+
 Access Brightness, Settings, About, Flashlight, Phone, DND, and Power saving mode by swiping down.
 
 ![image35](https://github.com/DSarwade/Test-Project/assets/166905444/36c4d30e-c5d0-4661-9a47-4f654b9ddf85)
 
 [Fig 38: Shortcut Menu Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-* Swipe Left To Access Shortcut Data 
+__15. Swipe Left To Access Shortcut Data__ 
+
 Swipe left to view daily activity, heart rate, sleep, weather, and music. You can also add more features.
 
 ![Fig 39: Shortcut Data Interface](https://github.com/DSarwade/Test-Project/assets/166905444/02f8394e-37b1-43c2-89dd-018fec9cc883)
@@ -364,7 +383,7 @@ Water Resistance - IP68
 
 Frequency Band - No
 
-> **Note: The net weight will differ according to different shape**
+> **Note: The net weight will differ according to different shape.**
 
 ### Maintenance
 
