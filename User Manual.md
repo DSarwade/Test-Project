@@ -77,68 +77,77 @@ Dial numbers using the dialer on the watch.
 [Fig 5: Dialer Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
 __2. Contact__ 
+
 Add up to 10 contacts from the boAt Smartwear app for direct dialing.
 
 ![image36](https://github.com/DSarwade/Test-Project/assets/166905444/d58e0cdc-9935-4992-b9f6-6d8a127fb12d)
 
 [Fig 6: Contact Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Call Records 
+__3. Call Records__ 
+
 View recently received, missed, and outgoing call logs in the recent calls section of the watch.
 
 ![image22](https://github.com/DSarwade/Test-Project/assets/166905444/68450130-f3fb-46aa-b51f-5e5f84da658b)
 
-Fig 7: Call Records Interface (Source: boAt official website)
+[Fig 7: Call Records Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Voice Assistant 
+__4. Voice Assistant__
+
 Tap on this and pair the watch with your smartphone's Bluetooth and give commands using the Voice Assistant.
 
 ![image5](https://github.com/DSarwade/Test-Project/assets/166905444/b8b10ea9-65d3-4ac0-a629-2d7459d846b6)
 
-Fig 8: Voice Assistant Interface (Source: boAt official website)
+[Fig 8: Voice Assistant Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Activity Data 
+__5. Activity Data__ 
+
 Check your daily activity data, including step count, calorie burn, and distance covered, by clicking on Activity Data.
 
 ![image21](https://github.com/DSarwade/Test-Project/assets/166905444/40e044b6-80d2-4f02-91d3-d7ac236d89ac)
 
-Fig 9: Activity Data Interface (Source: boAt official website)
+[Fig 9: Activity Data Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Workout
+___6. Workout__
+
 Tap the workout icon and select from multiple sports modes including Walking, Running Treadmill, Hiking, Strength Training, Basketball, Badminton, Elliptical, Yoga, Table Tennis, Rope Skipping, Rower, Lazy Car, Exercise Bike, Tennis, Baseball, Rugby, Cricket, Cycling, and more. Simply tap on your preferred activity to begin.
 
 Initiate any sports mode to start the activity. Swipe right to pause or stop it. Remember, activities lasting less than 3 minutes won't be recorded.
 
 ![image33](https://github.com/DSarwade/Test-Project/assets/166905444/c12cdc6f-c133-4fc1-ba29-623b24c654ed)
 
-Fig 10: Workout Interface (Source: boAt official website)
+[Fig 10: Workout Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Workout Records 
+__7. Workout Records__ 
+
 Sync your smartwatch with the app to access detailed records of your activities.
 
 ![image27](https://github.com/DSarwade/Test-Project/assets/166905444/5124b63b-9972-4c41-83af-6b78e9b91bdb)
 
-Fig 11: Workout Records Interface (Source: boAt official website)
+[Fig 11: Workout Records Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Heart Rate 
+__8. Heart Rate__ 
+
 Wear the watch on your wrist and click on the icon to start heart rate measurements. You can also view the data on the app. 
-*Note: Measurements are for reference only and not intended for medical purposes.
+> **Note: Measurements are for reference only and not intended for medical purposes.**
 
 ![image38](https://github.com/DSarwade/Test-Project/assets/166905444/458dde12-28a9-4240-ba62-6238fdea672b)
 
-Fig 12: Heart Rate Interface (Source: boAt official website)
+[Fig 12: Heart Rate Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Sleep 
+__9. Sleep__ 
+
 Tap on the icon to review the sleep data from the previous night. Once the sleep criteria are met, your smartwatch will begin recording from 9:30 PM to 12 AM the next day. The recording starts when the watch detects no movement for 30 minutes and stops if excessive movement is detected. You can view the data on the app once the awake criteria are met. Additionally, track sleep scores on the boAt Smartwear app.
-*Note: To ensure accurate sleep data, certain criteria must be met, including detecting movement, varied positions, angles, and more. The criteria for determining wakefulness will only be met after recording noticeable movement.
+> **Note: To ensure accurate sleep data, certain criteria must be met, including detecting movement, varied positions, angles, and more. The criteria for determining wakefulness will only be met after recording noticeable movement.**
 
 ![image17](https://github.com/DSarwade/Test-Project/assets/166905444/813a4ede-2631-4d3d-9e7d-7bbf1010d947)
 
-Fig 13: Sleep Interface (Source: boAt official website)
+[Fig 13: Sleep Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Blood Oxygen 
+__10. Blood Oxygen__ 
+
 Wear the watch on your wrist, then start measurements by clicking on the icon. You can also view the data on the app.
-*Note: Measurements are for reference only and not for medical purposes.
+< **Note: Measurements are for reference only and not for medical purposes.**
 
 ![image3](https://github.com/DSarwade/Test-Project/assets/166905444/dc2dbcd6-1e8c-4557-89b6-810686aebe75)
 
