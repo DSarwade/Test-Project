@@ -68,19 +68,20 @@ Data Synchronization
 ## 3. Basic Functions 
 Press the upper side button to access the main menu.
 
-Dial 
+**1. Dial**
+
 Dial numbers using the dialer on the watch.
 
 ![image9](https://github.com/DSarwade/Test-Project/assets/166905444/41dc8937-ad10-46dc-a79d-3ae13e196511)
 
-Fig 5: Dialer Interface (Source: boAt official website)
+[Fig 5: Dialer Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Contact 
+__2. Contact__ 
 Add up to 10 contacts from the boAt Smartwear app for direct dialing.
 
 ![image36](https://github.com/DSarwade/Test-Project/assets/166905444/d58e0cdc-9935-4992-b9f6-6d8a127fb12d)
 
-Fig 6: Contact Interface (Source: boAt official website)
+[Fig 6: Contact Interface (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
 Call Records 
 View recently received, missed, and outgoing call logs in the recent calls section of the watch.
