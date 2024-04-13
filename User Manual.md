@@ -14,7 +14,7 @@ The boAt Enigma x600 Smartwatch is designed to enhance your daily life with its 
 
 ![Fig 1: Enigma x600 Smartwatch](https://github.com/DSarwade/Test-Project/assets/166905444/9cd78999-21b9-484f-97bd-4044bcbd6bc1)
 
-[Source: boAt official website](https://www.boat-lifestyle.com/pages/watches-user-manual)
+[Fig 1: Enigma x600 Smartwatch (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
 
 ### Package Contains
