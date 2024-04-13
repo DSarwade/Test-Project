@@ -18,29 +18,32 @@ The boAt Enigma x600 Smartwatch is designed to enhance your daily life with its 
 
 
 ### Package Contains
-boAt Enigma x600 Smartwatch x1
-User manual x1
-USB magnetic charging cable x1 
-Warranty card x1
-
-
+1. boAt Enigma x600 Smartwatch x1
+2. User manual x1
+3. USB magnetic charging cable x1 
+4. Warranty card x1
+   
+-----------------------------------------------------------------------
 
 ## 2. Getting Started
 To begin using your smartwatch, follow these steps:
 
-Charge your smartwatch using the provided charging cable.
+* Charge your smartwatch using the provided charging cable.
 Before initial use, charge your smartwatch. It takes up to 2.5 hours to be fully charged. 
 
+![Fig 2: Charging The Watch](https://github.com/DSarwade/Test-Project/assets/166905444/9f072353-96dc-42c9-8b5a-e3e9f370d381)
 
-Fig 2: Charging The Watch (Source: boAt official website)
+[Fig 2: Charging The Watch (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
-Turning the watch on/off
+
+
+* Turning the watch on/off
 Power on your smartwatch by pressing the upper side button for 3-5 seconds. You can wake up the screen by lifting your waist. 
 
 
 Fig 3: Turn ON/OFF Watch (Source: boAt official website)
 
-Pair your smartwatch with the App 
+* Pair your smartwatch with the App 
 
 Download the boAt Smartwear app from the App Store (iOS 12.0+) or Google Play Store (Android 8.0+). (Alternatively, scan the QR code on the watch to download the app.)
 Make sure your phone's Bluetooth and GPS are enabled.
