@@ -1,6 +1,6 @@
 # boAt Enigma x600 Smartwatch User Manual
 
-You have bought the boAt Enigma x600 Smartwatch—congratulations! This user manual helps you set up and use your smartwatch effectively.
+You have bought the boAt __Enigma x600__ Smartwatch—congratulations! This user manual helps you set up and use your smartwatch effectively.
 
 # Table of Contents
 1. Introduction 
@@ -12,15 +12,15 @@ You have bought the boAt Enigma x600 Smartwatch—congratulations! This user man
 ----------------------------------------------
 
 ## 1. Introduction
-The boAt Enigma x600 Smartwatch is designed to enhance your daily life with its multifunctional capabilities. From tracking your fitness activities to receiving notifications from your smartphone, this smartwatch aims to keep you connected and active.
+The boAt __Enigma x600__ Smartwatch is designed to enhance your daily life with its multifunctional capabilities. From tracking your fitness activities to receiving notifications from your smartphone, this smartwatch aims to keep you connected and active.
 
-![Fig 1: Enigma x600 Smartwatch](https://github.com/DSarwade/Test-Project/assets/166905444/9cd78999-21b9-484f-97bd-4044bcbd6bc1)
+![Fig 1: __Enigma x600__ Smartwatch](https://github.com/DSarwade/Test-Project/assets/166905444/9cd78999-21b9-484f-97bd-4044bcbd6bc1)
 
-[Fig 1: Enigma x600 Smartwatch (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
+[Fig 1: __Enigma x600__ Smartwatch (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
 
 #### Package Contains
-1. boAt Enigma x600 Smartwatch x1
+1. boAt __Enigma x600__ Smartwatch x1
 2. User manual x1
 3. USB magnetic charging cable x1 
 4. Warranty card x1
@@ -49,9 +49,9 @@ Power on your smartwatch by pressing the upper side button for 3-5 seconds. You 
   1. Download the boAt Smartwear app from the App Store (iOS 12.0+) or Google Play Store (Android 8.0+). (Alternatively, scan the QR code on the watch to download the app.)
   2. Make sure your phone's Bluetooth and GPS are enabled.
   3. Connect your device to the boAt Smartwear app.
-  4. On the app's home screen, select Enigma X600 and click to pair.
+  4. On the app's home screen, select __Enigma x600__ and click to pair.
   5. Once connected, receive an alert to connect with ENIGMAX500_BT; click to pair for call functionality.
-  6. Tap 'yes' to system prompts for seamless connection and access to all Enigma X600 features.
+  6. Tap 'yes' to system prompts for seamless connection and access to all __Enigma x600__ features.
   7. Turn off battery optimization.
 
 ![image32](https://github.com/DSarwade/Test-Project/assets/166905444/4dfe5e21-eeb8-43ee-88cb-e88dacbf8fe8)
@@ -61,7 +61,7 @@ Power on your smartwatch by pressing the upper side button for 3-5 seconds. You 
 #### Syncing Your Smartwatch To The App
 Data Synchronization
    * Open the app on your smartphone. 
-   * Make sure your Enigma X600 is connected to the app.
+   * Make sure your __Enigma x600__ is connected to the app.
    * Synchronization will start automatically once you enter the app interface. 
 > **Note: Synchronize data at least once every day to avoid data loss in the watch.**
 
@@ -365,7 +365,7 @@ Swipe left to view daily activity, heart rate, sleep, weather, and music. You ca
 
 ## 5. Product Parameters 
 
-Model - Enigma X600
+Model - __Enigma x600__
 
 Screen Type - 1.43" amoled
 
