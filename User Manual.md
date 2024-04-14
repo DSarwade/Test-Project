@@ -396,17 +396,21 @@ If you encounter spots or stains that are difficult to remove, scrub the area wi
 ### Safety & Product Information
 
   #### __Battery__
-        * Do not disassemble, bore or damage the battery.
-        * Do not disassemble the built-in batteries of non-replaceable battery devices.
-        * Do not use sharp objects to remove the battery.
 
-####__Health Warning__
-        * Consult your doctor before using the heart rate monitor of the watch if you wear a pacemaker or other implanted electronic devices.
-        * The optical heart rate sensor will glow green. If you suffer from epilepsy or are sensitive to blinking light sources, consult your physician before wearing this device.
-        * The device tracks your daily activities through sensors. This data is intended to inform you about your daily activities such as steps, sleep, distance, heart rate, and calories, but it may not be completely accurate.
-        * The device accessories, heart rate sensor, oxygen level monitor, and other relevant data are designed for fitness and not for medical purposes. They are not applicable to the diagnosis, monitoring, treatment, or prevention of any diseases or symptoms. The heart rate and blood pressure data are for reference only. We're not responsible for any deviation in data. Avoid wearing the watch too tightly. Ensure you keep your skin dry in the area that comes in contact with the watch. If symptoms such as redness or swelling appear on your skin, immediately stop using the watch and consult a doctor.
+  Do not perform following: 
+           * Disassemble, bore or damage the battery.
+           * Disassemble the built-in batteries of non-replaceable battery devices.
+           * Use sharp objects to remove the battery.
+
+#### __Health Warning__
+      
+          * Consult your doctor before using the heart rate monitor of the watch if you wear a pacemaker or other implanted electronic devices.
+          * The optical heart rate sensor will glow green. If you suffer from epilepsy or are sensitive to blinking light sources, consult your physician before wearing this device.
+          * The device tracks your daily activities through sensors. This data is intended to inform you about your daily activities such as steps, sleep, distance, heart rate, and calories, but it may not be completely accurate.
+          * The device accessories, heart rate sensor, oxygen level monitor, and other relevant data are designed for fitness and not for medical purposes. They are not applicable to the diagnosis, monitoring, treatment, or prevention of any diseases or symptoms. The heart rate and blood pressure data are for reference only. We're not responsible for any deviation in data. Avoid wearing the watch too tightly. Ensure you keep your skin dry in the area that comes in contact with the watch. If symptoms such as redness or swelling appear on your skin, immediately stop using the watch and consult a doctor.
 
  #### __Things To Keep In Mind__
+       
         * Every day, sync data to prevent data loss.
         * Seawater, acidic and alkaline solutions, chemical reagents, and other corrosive liquids will render water resistance ineffective. The warranty does not cover damage or defects resulting from misuse or improper use. 
         * Sports modes enable up to 6 hours of exercise at a time. 
