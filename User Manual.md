@@ -397,7 +397,7 @@ If you encounter spots or stains that are difficult to remove, scrub the area wi
 
   #### __Battery__
 
-    Do not perform following: 
+ Do not perform following: 
      * Disassemble, bore or damage the battery.
      * Disassemble the built-in batteries of non-replaceable battery devices.
      * Use sharp objects to remove the battery.
