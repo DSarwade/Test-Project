@@ -409,11 +409,11 @@ If you encounter spots or stains that are difficult to remove, scrub the area wi
    * The device tracks your daily activities through sensors. This data is intended to inform you about your daily activities such as steps, sleep, distance, heart rate, and calories, but it may not be completely accurate.
    * The device accessories, heart rate sensor, oxygen level monitor, and other relevant data are designed for fitness and not for medical purposes. They are not applicable to the diagnosis, monitoring, treatment, or prevention of any diseases or symptoms. The heart rate and blood pressure data are for reference only. We're not responsible for any deviation in data. Avoid wearing the watch too tightly. Ensure you keep your skin dry in the area that comes in contact with the watch. If symptoms such as redness or swelling appear on your skin, immediately stop using the watch and consult a doctor.
 
- #### __Things To Keep In Mind__
+#### __Things To Keep In Mind__
        
-    * Every day, sync data to prevent data loss.
-    * Seawater, acidic and alkaline solutions, chemical reagents, and other corrosive liquids will render water resistance ineffective. The warranty does not cover damage or defects resulting from misuse or improper use. 
-    * Sports modes enable up to 6 hours of exercise at a time. 
-    * In daily use, refrain from wearing the watch too tightly. Ensure that the parts of your skin in contact with the watch remain dry. 
-    * Maintain stillness in your arm while measuring data to ensure accurate measurements.
+  * Every day, sync data to prevent data loss.
+  * Seawater, acidic and alkaline solutions, chemical reagents, and other corrosive liquids will render water resistance ineffective. The warranty does not cover damage or defects resulting from misuse or improper use. 
+  * Sports modes enable up to 6 hours of exercise at a time. 
+  * In daily use, refrain from wearing the watch too tightly. Ensure that the parts of your skin in contact with the watch remain dry. 
+  * Maintain stillness in your arm while measuring data to ensure accurate measurements.
 
