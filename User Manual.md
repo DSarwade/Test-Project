@@ -397,10 +397,10 @@ If you encounter spots or stains that are difficult to remove, scrub the area wi
 
   #### __Battery__
 
-  Do not perform following: 
-           * Disassemble, bore or damage the battery.
-           * Disassemble the built-in batteries of non-replaceable battery devices.
-           * Use sharp objects to remove the battery.
+    Do not perform following: 
+     * Disassemble, bore or damage the battery.
+     * Disassemble the built-in batteries of non-replaceable battery devices.
+     * Use sharp objects to remove the battery.
 
 #### __Health Warning__
       
@@ -411,9 +411,9 @@ If you encounter spots or stains that are difficult to remove, scrub the area wi
 
  #### __Things To Keep In Mind__
        
-        * Every day, sync data to prevent data loss.
-        * Seawater, acidic and alkaline solutions, chemical reagents, and other corrosive liquids will render water resistance ineffective. The warranty does not cover damage or defects resulting from misuse or improper use. 
-        * Sports modes enable up to 6 hours of exercise at a time. 
-        * In daily use, refrain from wearing the watch too tightly. Ensure that the parts of your skin in contact with the watch remain dry. 
-        * Maintain stillness in your arm while measuring data to ensure accurate measurements.
+    * Every day, sync data to prevent data loss.
+    * Seawater, acidic and alkaline solutions, chemical reagents, and other corrosive liquids will render water resistance ineffective. The warranty does not cover damage or defects resulting from misuse or improper use. 
+    * Sports modes enable up to 6 hours of exercise at a time. 
+    * In daily use, refrain from wearing the watch too tightly. Ensure that the parts of your skin in contact with the watch remain dry. 
+    * Maintain stillness in your arm while measuring data to ensure accurate measurements.
 
