@@ -31,6 +31,7 @@ The boAt __Enigma x600__ Smartwatch is designed to enhance your daily life with 
 To begin using your smartwatch, follow these steps:
 
 * Charge your smartwatch using the provided charging cable.
+  
 Before initial use, charge your smartwatch. It takes up to 2.5 hours to be fully charged. 
 
 ![Fig 2: Charging The Watch](https://github.com/DSarwade/Test-Project/assets/166905444/9f072353-96dc-42c9-8b5a-e3e9f370d381)
@@ -38,6 +39,7 @@ Before initial use, charge your smartwatch. It takes up to 2.5 hours to be fully
 [Fig 2: Charging The Watch (Source: boAt official website)](https://www.boat-lifestyle.com/pages/watches-user-manual)
 
 * Turning the watch on/off
+  
 Power on your smartwatch by pressing the upper side button for 3-5 seconds. You can wake up the screen by lifting your waist. 
 
 ![image28](https://github.com/DSarwade/Test-Project/assets/166905444/48e19458-f1f6-4ad3-93ab-4d832ef6f934)
